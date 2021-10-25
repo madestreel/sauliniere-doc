@@ -4,6 +4,7 @@ Tant que ovh n'aura pas rendu le nom de domain publique il n'est pas vraiment po
 
 - Ecrire *bloc-note* dans la barre de recherche en bas a droite
 - click droit sur le bloc-note, clicker sur *exécuter en tant qu'administrateur*
+- ouvrir le fichier */etc/hosts*
 - ajouter la ligne suivante
 ```
 167.172.166.212 chateaudelasauliniere.be management.chateaudelasauliniere.be api.chateaudelasauliniere.be
